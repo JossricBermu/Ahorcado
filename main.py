@@ -165,7 +165,6 @@ def main():
         
         descubrir_palabras(palabras_secretas, palabra_seleccionada)
         
-        print(palabra_seleccionada)
         palabra_secreta(palabra_seleccionada)
         
     
